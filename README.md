@@ -1,4 +1,4 @@
-# Parallel-Algorithms-Assignment-Gauss-Jordan
+# Parallel solving of linear systems
 
 <h2>Assignment</h2>
 Describe and implement an MPI parallel algorithm of the Gauss-Jordan method (form kji) to solve a linear system of the form: Ax=b, where A nxn real nonsingular matrix and x,b n-dimensional vectors in a parallel computer with 
